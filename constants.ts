@@ -5,7 +5,7 @@ export const METADATA = {
   title: "Portfolio | Ranjeet Kumar Verma",
   description:
     "I like to take responsibility for crafting aesthetic and intuitive user experiences through thoughtful UX/UI design..",
-  // siteUrl: "https://ranjeetverma.net/",
+  siteUrl: "https://ranjeetverma.net/",
 };
 
 export const MENULINKS = [
