@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 564.35 437.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cb5840;
+      }
+
+      .cls-2 {
+        fill: #103947;
+      }
+
+      .cls-3 {
+        fill: #fa2;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #cbe9ff;
+      }
+
+      .cls-5 {
+        font-family: Arial-Black, 'Arial Black';
+        font-size: 76.38px;
+        font-weight: 800;
+      }
+
+      .cls-7 {
+        fill: #124460;
+      }
+    </style>
+  </defs>
+  <g id="Object">
+    <g>
+      <ellipse class="cls-6" cx="265.11" cy="163.15" rx="166.07" ry="163.15"/>
+      <g>
+        <path class="cls-7" d="M203.98,336.8l-14.22-2.31c-2.93-.48-4.66-2.26-3.84-3.96l58.94-122.46c.82-1.7,3.89-2.71,6.82-2.23l14.22,2.31c2.93.48,4.66,2.26,3.84,3.96l-58.94,122.46c-.82,1.7-3.89,2.71-6.82,2.23Z"/>
+        <path class="cls-7" d="M332.94,336.8l14.22-2.31c2.93-.48,4.66-2.26,3.84-3.96l-58.94-122.46c-.82-1.7-3.89-2.71-6.82-2.23l-14.22,2.31c-2.93.48-4.66,2.26-3.84,3.96l58.94,122.46c.82,1.7,3.89,2.71,6.82,2.23Z"/>
+        <ellipse class="cls-1" cx="266.27" cy="156.28" rx="121.88" ry="119.73"/>
+        <ellipse class="cls-3" cx="266.27" cy="156.28" rx="80.44" ry="79.02"/>
+        <ellipse class="cls-4" cx="266.27" cy="156.28" rx="44.74" ry="43.95"/>
+        <ellipse class="cls-1" cx="266.27" cy="156.28" rx="24.51" ry="24.07"/>
+        <polygon class="cls-2" points="407.36 91.53 410.47 97.69 479.35 63.99 457 62.87 469.56 44.67 400.69 78.36 403.82 84.54 292.68 138.96 289.54 132.78 265.11 156.82 299.36 152.13 296.22 145.94 407.36 91.53"/>
+      </g>
+    </g>
+    <text class="cls-5" transform="translate(0 414.45)"><tspan x="0" y="0">Goal oriented</tspan></text>
+  </g>
+</svg>
