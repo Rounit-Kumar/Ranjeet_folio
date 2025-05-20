@@ -178,11 +178,11 @@ export const PROJECTS: IProject[] = [
 
 export const SKILLS = {
   softwareskills: [
-    "Figma",
-    "autocad",
-    "maya",
+    "figma",
+    "Autocad",
+    "Maya",
     "Blender",
-    "Illustrator",
+    "illustrator",
     "AdobePhotoshop",
     "AdobeInDesign",
     "AdobePremierepro",
